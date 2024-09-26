@@ -2,7 +2,7 @@
 
 ## About:
 
-This is a backend app that was build to work hand in hand with a frontend Angular app
+This is a backend app that was built to work hand in hand with a frontend Angular app
 
 ## Tech Used:
 
